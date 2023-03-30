@@ -1,0 +1,12 @@
+C:\Users\ShibuSivaramakrishna\Desktop\Class Assignments\13-01-2023 (Completed)\AssemblyReference\AdmissionLibrary\bin\Debug\net6.0\AdmissionLibrary.deps.json
+C:\Users\ShibuSivaramakrishna\Desktop\Class Assignments\13-01-2023 (Completed)\AssemblyReference\AdmissionLibrary\bin\Debug\net6.0\AdmissionLibrary.dll
+C:\Users\ShibuSivaramakrishna\Desktop\Class Assignments\13-01-2023 (Completed)\AssemblyReference\AdmissionLibrary\bin\Debug\net6.0\AdmissionLibrary.pdb
+C:\Users\ShibuSivaramakrishna\Desktop\Class Assignments\13-01-2023 (Completed)\AssemblyReference\AdmissionLibrary\obj\Debug\net6.0\AdmissionLibrary.csproj.AssemblyReference.cache
+C:\Users\ShibuSivaramakrishna\Desktop\Class Assignments\13-01-2023 (Completed)\AssemblyReference\AdmissionLibrary\obj\Debug\net6.0\AdmissionLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ShibuSivaramakrishna\Desktop\Class Assignments\13-01-2023 (Completed)\AssemblyReference\AdmissionLibrary\obj\Debug\net6.0\AdmissionLibrary.AssemblyInfoInputs.cache
+C:\Users\ShibuSivaramakrishna\Desktop\Class Assignments\13-01-2023 (Completed)\AssemblyReference\AdmissionLibrary\obj\Debug\net6.0\AdmissionLibrary.AssemblyInfo.cs
+C:\Users\ShibuSivaramakrishna\Desktop\Class Assignments\13-01-2023 (Completed)\AssemblyReference\AdmissionLibrary\obj\Debug\net6.0\AdmissionLibrary.csproj.CoreCompileInputs.cache
+C:\Users\ShibuSivaramakrishna\Desktop\Class Assignments\13-01-2023 (Completed)\AssemblyReference\AdmissionLibrary\obj\Debug\net6.0\AdmissionLibrary.dll
+C:\Users\ShibuSivaramakrishna\Desktop\Class Assignments\13-01-2023 (Completed)\AssemblyReference\AdmissionLibrary\obj\Debug\net6.0\refint\AdmissionLibrary.dll
+C:\Users\ShibuSivaramakrishna\Desktop\Class Assignments\13-01-2023 (Completed)\AssemblyReference\AdmissionLibrary\obj\Debug\net6.0\AdmissionLibrary.pdb
+C:\Users\ShibuSivaramakrishna\Desktop\Class Assignments\13-01-2023 (Completed)\AssemblyReference\AdmissionLibrary\obj\Debug\net6.0\ref\AdmissionLibrary.dll
